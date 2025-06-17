@@ -136,7 +136,7 @@ search_courses_by_title("python")
 ---
 
 ## 📧 Contact
-For questions, feel free to contact the project maintainer: **[Oluwafemi]**
+For questions, feel free to contact the project maintainer: **Oluwafemi**
 
 ---
 
